@@ -6,7 +6,7 @@ LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 def main():
     myMessage = """This entire message will be encrypted or
     decrypted based on the key. Change mode to flip between the two."""
-    myKey = 'ASIMOV'
+    myKey = 'OWNED'
     myMode = 'encrypt'
 
     if myMode == 'encrypt':
